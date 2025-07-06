@@ -51,11 +51,10 @@ Answer 14 business questions using Excel techniques to uncover insights such as:
 
 ## 📈 Analysis Highlights (Fill these in)
 
-- **Top-rated product**: `🔲 []`
-- **Average discount across all products**: `🔲 [Your Answer]%`
-- **Most reviewed category**: `🔲 [Your Answer]`
-- **Location with highest user engagement**: `🔲 [Your Answer]`
-- **Product with highest price drop**: `🔲 [Your Answer]`
+- **Top-rated product**: `🔲 [B09ZHCJDP1]`
+- **Average discount across all products**: `🔲 [47.69]%`
+- **Most reviewed category**: `🔲 [Electronics]`
+- **Product with less than 1000 reviews**: `🔲 [328]`
 
 ---
 
